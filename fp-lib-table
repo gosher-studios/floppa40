@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+)
