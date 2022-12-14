@@ -1,9 +1,6 @@
 [submodule "pcb/keyswitch"]
 	path = pcb/keyswitch
 	url = https://github.com/perigoso/keyswitch-kicad-library
-[submodule "pcb/keebio"]
-	path = pcb/keebio
-	url = https://github.com/keebio/Keebio-Parts.pretty
 [submodule "pcb/42keebs"]
 	path = pcb/42keebs
 	url = https://github.com/piit79/42keebs-kicad
