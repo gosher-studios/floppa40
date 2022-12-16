@@ -9,18 +9,26 @@
 #define PRODUCT_ID 0x0000
 #define VENDOR_ID 0x0000
 
+// config
+#define MASTER_LEFT
+// #define MASTER_RIGHT
+#define SERIAL_USART_FULL_DUPLEX
+#define SERIAL_USART_TX_PIN GP0
+#define SERIAL_USART_RX_PIN GP1
+#define USB_VBUS_PIN GP19
+
 // pins
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 6
 #define DIRECT_PINS { \
-    { GP2, GP6, GP29, GP27, GP22, GP23 }, \
-    { GP3, GP7, GP12, GP14, GP16, GP21 }, \
-    { GP4, GP8, GP28, GP26, GP20, NO_PIN }, \
+    { GP2, GP6, GP29, GP27, GP22, GP23 },     \
+    { GP3, GP7, GP12, GP14, GP16, GP21 },     \
+    { GP4, GP8, GP28, GP26, GP20, NO_PIN },   \
     { GP5, GP9, GP13, GP15, NO_PIN, NO_PIN }, \
 }
 #define DIRECT_PINS_RIGHT { \
-    { GP4, GP7, GP12, GP27, GP21, GP20 }, \
-    { GP5, GP29, GP28, GP15, GP23, NO_PIN }, \
-    { GP6, GP8, GP13, GP14, GP26, GP22 }, \
+    { GP4, GP7, GP12, GP27, GP21, GP20 },          \
+    { GP5, GP29, GP28, GP15, GP23, NO_PIN },       \
+    { GP6, GP8, GP13, GP14, GP26, GP22 },          \
     { GP9, GP16, NO_PIN, NO_PIN, NO_PIN, NO_PIN }, \
 }

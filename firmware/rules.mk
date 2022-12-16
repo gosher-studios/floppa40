@@ -1,1 +1,5 @@
-# This file intentionally left blank
+# (c) gosher studios 2022
+MCU = RP2040
+BOOTLOADER = rp2040
+SPLIT_KEYBOARD = yes
+SERIAL_DRIVER = vendor
