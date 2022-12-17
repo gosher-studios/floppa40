@@ -10,8 +10,7 @@
 #define VENDOR_ID 0x0000
 
 // config
-#define MASTER_LEFT
-// #define MASTER_RIGHT
+#define EE_HANDS
 #define SERIAL_USART_FULL_DUPLEX
 #define SERIAL_USART_TX_PIN GP0
 #define SERIAL_USART_RX_PIN GP1
