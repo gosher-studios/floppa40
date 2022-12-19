@@ -21,6 +21,6 @@
 |3|2u Kailh Choc stabs|[AliExpress](https://www.aliexpress.com/item/33039182740.html)|
 
 ---
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ![cc-by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
