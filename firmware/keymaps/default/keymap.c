@@ -1,4 +1,4 @@
-// (c) gosher studios 2022 - licensed under gplv3
+// (c) gosher studios 2022 - licensed under cc by-nc-sa 4.0
 #include "floppa40.h"
 
 #define CU_APRX UC(0x2248)

@@ -1,4 +1,4 @@
-// (c) gosher studios 2022 - licensed under gplv3
+// (c) gosher studios 2022 - licensed under cc by-nc-sa 4.0
 #pragma once
 #include "config_common.h"
 
