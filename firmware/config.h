@@ -6,8 +6,8 @@
 #define PRODUCT "Floppa40"
 #define MANUFACTURER "Gosher Studios"
 #define DEVICE_VER 0x0100
-#define PRODUCT_ID 0x0000
-#define VENDOR_ID 0x0000
+#define PRODUCT_ID 0xF140
+#define VENDOR_ID 0xF109
 
 // config
 #define EE_HANDS
