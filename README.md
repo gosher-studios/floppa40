@@ -2,6 +2,11 @@
 
 ### 40% split staggered keyboard
   made by 2 idiots in a week.
+  
+## Features
+  Diodeless - we are lazy.
+  portable - small
+  aesthetic - balls
 ## Parts list
 
 |count|part|link|
